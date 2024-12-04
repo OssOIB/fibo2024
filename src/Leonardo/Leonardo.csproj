@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Yahya.Michbal.Fibonacci10</PackageId>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
+    
 
   </PropertyGroup>
 
